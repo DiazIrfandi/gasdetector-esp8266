@@ -36,5 +36,5 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/gas-detector-esp8266.git
+   git clone https://github.com/DiazIrfandi/gasdetector-esp8266.git
    cd gas-detector-esp8266
